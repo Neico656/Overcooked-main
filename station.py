@@ -77,8 +77,8 @@ class Station:
                     self.used=True
                     position= [chef.x, chef.y]
                     type_station= key
-
-    return postition and key
+        
+        return position and key
                     
 
             
